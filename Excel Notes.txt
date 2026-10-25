@@ -1,3 +1,9 @@
-Excel Notes
+Average
+Min
+Max
+Sum
+If
+arithmetic operations
+nested if
 
-1. Fill handel
+=IF(G2>=90,"O",IF(G2>=80,"A",G2>=65,"B",G2>=50,"C",G2>=35,"D","Fail"
