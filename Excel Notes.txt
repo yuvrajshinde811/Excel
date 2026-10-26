@@ -5,5 +5,8 @@ Sum
 If
 arithmetic operations
 nested if
+Conditional formatting
+Advanced Conditional formatting
+Absolute & relative reference ($)
+Sorting
 
-=IF(G2>=90,"O",IF(G2>=80,"A",G2>=65,"B",G2>=50,"C",G2>=35,"D","Fail"
