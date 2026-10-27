@@ -9,4 +9,6 @@ Conditional formatting
 Advanced Conditional formatting
 Absolute & relative reference ($)
 Sorting
-
+Filter
+Sort and filter formula in excel
+Data validation
